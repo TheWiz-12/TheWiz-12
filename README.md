@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sahil!
 - 👀 I’m interested in coding
 - 🌱 I’m currently pursuing BTech in CSE
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at ssrivastava547@gmail.com
 
 <!---
