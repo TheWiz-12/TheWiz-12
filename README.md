@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Sahil!
+- 📍 I am from Lucknow, Uttar Pradesh, India.
 - 👀 I’m interested in competitive coding and developement.
 - 🌱 I’m currently pursuing BTech in CSE
 - 📫 Reach me at ssrivastava547@gmail.com
