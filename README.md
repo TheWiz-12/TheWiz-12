@@ -2,7 +2,7 @@
   
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Sahil Kumar" width="30px">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+App+Developer;A+Competitive+Coder+A+tech+enthusiast;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+App+Developer;A+Competitive+Coder;A+tech+enthusiast;)](https://git.io/typing-svg)
 </h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="Sahil Kumar">
