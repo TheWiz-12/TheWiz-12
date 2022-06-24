@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+App+Developer;A+Frontend+Web+Developer;A+Competitive+Coder;A+Tech+Enthusiast;)](https://git.io/typing-svg)
 </h1>
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" alt="Sahil Kumar" height="200"/>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" alt="Sahil Kumar" height="200">
 </p>
 <hr>
 
