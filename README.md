@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sahil Kumar!!
+<h1 align="center">Hi, I'm Sahil Kumar!
   
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Sahil Kumar" width="30px">
   
